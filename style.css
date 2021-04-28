@@ -1,0 +1,20 @@
+body {
+    background-color: #AEE0E7;
+}
+
+h1 {
+    color: #000202;
+
+}
+
+p {
+    color: #015A66;
+
+
+}
+
+.brand-container {
+    margin: 0 auto;
+    width: 40%;
+    font: 1em;
+}
